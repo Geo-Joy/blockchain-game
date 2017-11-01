@@ -1,0 +1,16 @@
+{
+  "name": "blockchain-game",
+  "version": "1.0.0",
+  "description": "nothing much",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Geo Joy Vadakkan",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "web3": "^1.0.0-beta.24"
+  }
+}
